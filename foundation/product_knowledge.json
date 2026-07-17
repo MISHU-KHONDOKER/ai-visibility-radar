@@ -1,0 +1,56 @@
+{
+  "description": "HEIDSTAR ground-truth facts. The single source of truth for all modules. Only verified facts here.",
+  "company": {
+    "name_en": "HEIDSTAR CO., LTD",
+    "name_zh": "海德星科技（厦门）有限公司",
+    "founded": "2009-11-17",
+    "location": "Xiamen Torch High-Tech Zone, Fujian, China",
+    "type": "Sino-foreign joint venture; National High-Tech Enterprise; Specialized & New (专精特新) SME",
+    "positioning": "Digital pathology scanner manufacturer and OEM/ODM source factory (源头工厂) for WSI / DPS",
+    "website": "https://www.heidstar.com",
+    "core_technology": "In-house piezoelectric precision-motion platforms, fast auto-focus, high-precision image stitching, anti-smear (防拖影) fast-scan imaging",
+    "rnd_strength": "38 patents, software copyrights, university/research partnerships (Peking U, Harbin IT, CIOMP)",
+    "oem_odm": "OEM, ODM and private-label supported; in-house production, assembly, QA and after-sales; MOQ on discussion; ~80% of business is ODM",
+    "notes": "Positioning must lead with DIGITAL PATHOLOGY + OEM/ODM source factory, NOT motion-control only. (Baidu Baike entry currently mis-positions the company as motion-control - flagged for correction.)"
+  },
+  "certifications": {
+    "iso_13485": { "status": "confirmed", "scope": "Digital Pathology Slide Scanner Components", "note": "company-wide quality system" },
+    "iso_9001": { "status": "confirmed" },
+    "nmpa": {
+      "HDS-MSCAN-200A": { "status": "confirmed", "reg_no": "闽械注准20222220152", "valid_until": "2027-12-20" },
+      "HDS-MSCAN-4N": { "status": "UNCONFIRMED", "note": "do NOT claim NMPA until verified" },
+      "HDS-MSCAN-60FN": { "status": "UNCONFIRMED", "note": "do NOT claim NMPA until verified" }
+    },
+    "ce_mark": { "status": "none", "note": "only relevant for future Europe market" }
+  },
+  "products": [
+    {
+      "model": "HDS-MSCAN-4N",
+      "type": "Compact 4-slide brightfield scanner",
+      "use": "clinics / education",
+      "specs": "35s per slide, ~20kg",
+      "nmpa": "UNCONFIRMED"
+    },
+    {
+      "model": "HDS-MSCAN-200A",
+      "type": "High-volume 200-slide brightfield scanner",
+      "use": "hospital labs",
+      "specs": "<45s per slide",
+      "nmpa": "CONFIRMED (闽械注准20222220152, valid to 2027-12-20)"
+    },
+    {
+      "model": "HDS-MSCAN-60FN",
+      "type": "Brightfield + fluorescence scanner (5-7 channels)",
+      "use": "research / FISH",
+      "specs": "0.15 micron resolution",
+      "nmpa": "UNCONFIRMED"
+    },
+    {
+      "model": "HDS-LC-6A",
+      "type": "Microscope-based screening system platform (life science)",
+      "use": "life-science screening / research (different buyer than pathology line)",
+      "specs": "Up to 5 epi-fluorescence channels; laser + image autofocus; Z-axis optical encoder 100nm; IMX226 12MP camera (1.85um pixel, 12-bit, 31fps); objectives 4X/10X/20X; up to 6 plates; brightfield/phase-contrast/fluorescence; 0.36 um/pixel at 20X; 49x53x48 cm",
+      "nmpa": "N/A - life science research platform, not a clinical pathology device"
+    }
+  ]
+}

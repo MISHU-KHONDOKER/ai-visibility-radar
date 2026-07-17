@@ -1,0 +1,12 @@
+{
+  "candidates": [
+    {
+      "name": "示例候选医院 (Example candidate hospital)",
+      "type": "医院",
+      "country": "中国",
+      "detail": "Illustrative placeholder candidate — replace with real search output.",
+      "source_query": "数字病理科 建设 医院 案例",
+      "status": "unverified"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description": "SAMPLE competitor + source map (illustrative placeholders only — not real intel). Copy to competitors_and_sources.json and populate from your own measurements before use.",
+  "competitors": [
+    {
+      "name_zh": "示例厂商A",
+      "name_en": "Example Vendor A",
+      "tier": "market leader",
+      "oem_odm": true,
+      "ai_mentions": 0,
+      "aliases": ["示例厂商A", "Example Vendor A", "EVA"],
+      "oem_odm_status": "UNVERIFIED - needs manual check"
+    },
+    {
+      "name_zh": "示例厂商B",
+      "name_en": "Example Vendor B",
+      "tier": "major",
+      "oem_odm": false,
+      "ai_mentions": 0,
+      "aliases": ["示例厂商B", "Example Vendor B"],
+      "oem_odm_status": "UNVERIFIED - needs manual check"
+    }
+  ],
+  "direct_oem_odm_rivals": [
+    "示例OEM竞品 (Example OEM rival)"
+  ],
+  "high_trust_sources": [
+    {
+      "name": "示例来源 (Example industry portal)",
+      "priority": "highest",
+      "heidstar_present": false,
+      "note": "replace with the sources your AI answers actually cite"
+    }
+  ]
+}

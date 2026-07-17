@@ -1,0 +1,37 @@
+{
+  "description": "SAMPLE customer database (illustrative placeholder — not a real customer). Copy to customers.json and populate from real sources only (procurement records, known deployments, company sales records). NOT ML training data.",
+  "segments_reference": {
+    "end_user": [
+      "三甲医院病理科 (tertiary hospital pathology)",
+      "区域医学检验中心 (regional testing center)",
+      "独立医学实验室 ICL (independent clinical lab)",
+      "疾控中心/公共卫生筛查 (CDC / public-health screening)",
+      "高校与科研院所 (universities / research institutes)",
+      "基层/县域医院 (grassroots / county hospitals)",
+      "药企与CRO (pharma / CRO pathology)"
+    ],
+    "oem_odm_partner": [
+      "第三方医学检验所 (third-party diagnostic labs)",
+      "AI病理软件公司 (AI pathology software firms)",
+      "区域/新兴市场品牌商 (regional / emerging-market brands)",
+      "IVD一体化企业 (integrated IVD companies)",
+      "科研设备集成商 (research equipment integrators)",
+      "医院集团/医联体 (hospital groups / alliances)"
+    ]
+  },
+  "customers": [
+    {
+      "id": "cust_001",
+      "name_zh": "示例医院",
+      "name_en": "Example Hospital (placeholder)",
+      "type": "end_user",
+      "segment": "基层/县域医院",
+      "region": "示例地区 (Example region)",
+      "country": "China",
+      "product_used": "HDS-MSCAN-200A",
+      "relationship": "sample record - replace with a real verified win",
+      "source": "招标公告/中标结果 (procurement record) - placeholder",
+      "notes": "Illustrative sample only. Populate from verified sources."
+    }
+  ]
+}

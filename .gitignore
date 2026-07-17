@@ -1,0 +1,24 @@
+# ===== Secrets — NEVER commit =====
+config/config.ini
+
+# ===== Virtual environment / caches =====
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# ===== Real business data — keep private (use the *.sample.* templates instead) =====
+foundation/customers.json
+foundation/competitors_and_sources.json
+foundation/*.backup
+foundation/*.backup2
+foundation/*.backup3
+
+data/results.csv
+data/results.xlsx
+data/results_old.csv
+data/customer_candidates.json
+data/usage_log.csv
+
+# Generated report (contains real measurement data)
+HEIDSTAR_Scorecard.md

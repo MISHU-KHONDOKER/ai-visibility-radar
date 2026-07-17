@@ -1,0 +1,28 @@
+{
+  "description": "Buyer questions for visibility measurement. Neutral questions only (must NOT name HEIDSTAR).",
+  "questions": [
+    { "id": "q1", "lang": "zh", "category": "general", "text": "国内有哪些病理切片扫描仪厂家？比较好的推荐一下", "en": "Which domestic pathology slide scanner manufacturers are there?" },
+    { "id": "q2", "lang": "zh", "category": "general", "text": "国内有哪些数字病理扫描仪厂家？比较好的推荐一下", "en": "Digital pathology scanner manufacturers?" },
+    { "id": "q3", "lang": "zh", "category": "general", "text": "国内有哪些病理扫描仪厂家？比较好的推荐一下", "en": "Pathology scanner manufacturers?" },
+    { "id": "q4", "lang": "zh", "category": "general", "text": "国内有哪些荧光扫描仪厂家？比较好的推荐一下", "en": "Fluorescence scanner manufacturers?" },
+    { "id": "q5", "lang": "zh", "category": "general", "text": "国内有哪些 WSI 全切片扫描仪厂家？比较好的推荐一下", "en": "WSI whole-slide scanner manufacturers?" },
+    { "id": "q6", "lang": "zh", "category": "general", "text": "数字病理扫描仪哪个品牌好？推荐几个", "en": "Which digital pathology scanner brands are good? Recommend a few." },
+    { "id": "q7", "lang": "zh", "category": "general", "text": "国产病理切片扫描仪十大品牌有哪些？", "en": "What are the top 10 domestic pathology slide scanner brands?" },
+
+    { "id": "q8", "lang": "zh", "category": "oem_odm", "text": "国内有哪些数字病理扫描仪的 OEM 贴牌定制厂家？比较好的推荐一下", "en": "Digital pathology scanner OEM/private-label manufacturers?" },
+    { "id": "q9", "lang": "zh", "category": "oem_odm", "text": "国内有哪些数字切片扫描仪的 ODM 设计定制厂家？比较好的推荐一下", "en": "Digital slide scanner ODM manufacturers?" },
+    { "id": "q10", "lang": "zh", "category": "oem_odm", "text": "国内有哪些病理切片扫描仪的源头工厂？支持 OEM/ODM 定制", "en": "Pathology slide scanner source factories supporting OEM/ODM?" },
+    { "id": "q11", "lang": "zh", "category": "oem_odm", "text": "国内有哪些数字病理扫描仪 WSI 的 OEM/ODM 源头厂家？", "en": "WSI digital pathology OEM/ODM source manufacturers?" },
+    { "id": "q12", "lang": "zh", "category": "oem_odm", "text": "病理扫描仪可以贴牌代工吗？有哪些厂家能做？", "en": "Can pathology scanners be private-labeled/contract-manufactured? Which makers can do it?" },
+
+    { "id": "q13", "lang": "zh", "category": "application", "text": "宫颈癌筛查用的病理扫描仪有哪些厂家？", "en": "Which manufacturers make pathology scanners for cervical cancer screening?" },
+    { "id": "q14", "lang": "zh", "category": "application", "text": "免疫荧光/FISH 切片扫描仪有哪些品牌？", "en": "Which brands make immunofluorescence/FISH slide scanners?" },
+    { "id": "q15", "lang": "zh", "category": "application", "text": "冰冻切片快速扫描仪有哪些厂家推荐？", "en": "Recommended manufacturers for rapid frozen-section scanners?" },
+
+    { "id": "q16", "lang": "zh", "category": "buyer_context", "text": "三甲医院病理科适合采购哪些数字切片扫描仪？", "en": "Which digital slide scanners suit a top-tier hospital pathology department?" },
+    { "id": "q17", "lang": "zh", "category": "buyer_context", "text": "科研实验室用的高精度病理扫描仪推荐哪些？", "en": "Recommended high-precision pathology scanners for research labs?" },
+    { "id": "q18", "lang": "zh", "category": "buyer_context", "text": "基层医院或小型诊所性价比高的病理扫描仪有哪些？", "en": "Cost-effective pathology scanners for primary/small clinics?" },
+
+    { "id": "q19", "lang": "zh", "category": "comparison", "text": "如何选择数字病理切片扫描仪？需要看哪些参数和厂家？", "en": "How to choose a digital pathology slide scanner? Which specs and makers to consider?" }
+  ]
+}
