@@ -87,3 +87,8 @@ This is an internal tool. The public repository ships with **illustrative `*.sam
 5. **Agent + front-end** — strategy summaries, sales advisor, pipeline orchestrator, Streamlit dashboard.
 
 See `CLAUDE.md` for detailed developer guidance.
+
+## License
+
+Copyright © 2026 HEIDSTAR CO., LTD (海德星科技（厦门）有限公司). All Rights Reserved.
+Proprietary — see [LICENSE](LICENSE). Provided for reference only; no reuse without written permission.
