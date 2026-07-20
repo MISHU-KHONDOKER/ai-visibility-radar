@@ -4,6 +4,8 @@ An internal marketing-intelligence tool that measures **how often Chinese AI ass
 
 The core question: *when a buyer asks an AI to recommend pathology-scanner manufacturers, does HEIDSTAR get named — and if not, who does?*
 
+**Headline finding:** across 168 neutral buyer queries, HEIDSTAR is named only **~1.8% of the time (3/168)** — exclusively via Qwen's live web search, and only in the cervical-cancer-screening application lane. It appears **0%** on DeepSeek (trained memory) and **0%** on general and OEM/ODM queries. In other words: the live web can occasionally surface HEIDSTAR, but the AI's baked-in knowledge does not.
+
 > **Guiding principle: measure honestly, let humans decide.** The code deliberately refuses to fabricate — no unverified NMPA certs, no invented customer contacts, no unverified competitor claims. It diagnoses and recommends; humans act on the recommendations.
 
 ## Two-engine design
