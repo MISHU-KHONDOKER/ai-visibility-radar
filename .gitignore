@@ -25,3 +25,6 @@ HEIDSTAR_Scorecard.md
 
 # Local helper notes (personal — not for the public repo)
 PUSH_STEPS.md
+
+# Local proxy helper (contains proxy IP — keep out of public repo)
+claude-proxy-heidstar.bat
