@@ -1,10 +1,10 @@
-# HEIDSTAR AI-Visibility & Sales-Intelligence Engine
+# AI Visibility Radar — measuring what AI assistants recommend
 
-An internal marketing-intelligence tool that measures **how often Chinese AI assistants (DeepSeek, Qwen) recommend HEIDSTAR** — a Xiamen-based digital-pathology slide-scanner manufacturer and OEM/ODM source factory — when buyers ask for scanner makers, and turns those findings into competitor intelligence, customer leads, and sales strategy.
+An internal marketing-intelligence tool that measures **how often Chinese AI assistants (DeepSeek, Qwen) recommend one manufacturer** — a Xiamen-based digital-pathology slide-scanner manufacturer and OEM/ODM source factory — when buyers ask for scanner makers, and turns those findings into competitor intelligence, customer leads, and sales strategy.
 
-The core question: *when a buyer asks an AI to recommend pathology-scanner manufacturers, does HEIDSTAR get named — and if not, who does?*
+The core question: *when a buyer asks an AI to recommend pathology-scanner manufacturers, does that manufacturer get named — and if not, who does?*
 
-**Headline finding:** across 168 neutral buyer queries, HEIDSTAR is named only **~1.8% of the time (3/168)** — exclusively via Qwen's live web search, and only in the cervical-cancer-screening application lane. It appears **0%** on DeepSeek (trained memory) and **0%** on general and OEM/ODM queries. In other words: the live web can occasionally surface HEIDSTAR, but the AI's baked-in knowledge does not.
+**Headline finding:** across 168 neutral buyer queries, the manufacturer is named only **~1.8% of the time (3/168)** — exclusively via Qwen's live web search, and only in the cervical-cancer-screening application lane. It appears **0%** on DeepSeek (trained memory) and **0%** on general and OEM/ODM queries. In other words: the live web can occasionally surface the manufacturer, but the AI's baked-in knowledge does not.
 
 > **Guiding principle: measure honestly, let humans decide.** The code deliberately refuses to fabricate — no unverified NMPA certs, no invented customer contacts, no unverified competitor claims. It diagnoses and recommends; humans act on the recommendations.
 
@@ -92,5 +92,5 @@ See `CLAUDE.md` for detailed developer guidance.
 
 ## License
 
-Copyright © 2026 HEIDSTAR CO., LTD (海德星科技（厦门）有限公司). All Rights Reserved.
+Copyright © 2026 Mohyminul Islam. All Rights Reserved.
 Proprietary — see [LICENSE](LICENSE). Provided for reference only; no reuse without written permission.
